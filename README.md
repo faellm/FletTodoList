@@ -39,22 +39,5 @@ Certifique-se de ter as seguintes ferramentas instaladas em seu sistema:
    python toDoApp.py
    ```
 
-5. Abra um navegador da web e acesse o seguinte URL: `http://localhost:8000`
 
-6. Você deverá ver a interface do seu projeto de gerenciamento de tarefas e categorias.
-
-## Contribuição
-
-Se você gostaria de contribuir para este projeto, fique à vontade para enviar um pull request. Estou aberto a melhorias e sugestões!
-
-## Contato
-
-Se você tiver alguma dúvida ou feedback, não hesite em entrar em contato comigo:
-
-[Seu Nome]  
-[Seu E-mail]  
-[Seu LinkedIn]  
-
----
-
-Personalize as seções conforme necessário, incluindo seu nome, e-mail e perfil do LinkedIn. Este README deve ajudar os recrutadores a entenderem como executar o seu projeto e a entrar em contato com você para eventuais perguntas. Certifique-se de incluir o nome do seu script principal onde é indicado.
+5. Você deverá ver a interface do seu projeto de gerenciamento de tarefas e categorias.
