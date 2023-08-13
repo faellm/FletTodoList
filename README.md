@@ -18,28 +18,26 @@ Certifique-se de ter as seguintes ferramentas instaladas em seu sistema:
 1. Clone este repositório para o seu ambiente local:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-projeto.git
+   git clone https://github.com/faellm/FletTodoList.git
    ```
 
 2. Navegue até o diretório do projeto:
 
    ```bash
-   cd seu-projeto
+   cd FletTodoList
    ```
 
 3. Instale as dependências necessárias (certifique-se de que o ambiente virtual esteja ativado, se estiver usando um):
 
    ```bash
-   pip install -r requirements.txt
+   pip install Flet
    ```
 
 4. Execute o script principal para iniciar o aplicativo:
 
    ```bash
-   python seu_script_principal.py
+   python toDoApp.py
    ```
-
-   Substitua `seu_script_principal.py` pelo nome do arquivo que contém o seu script principal.
 
 5. Abra um navegador da web e acesse o seguinte URL: `http://localhost:8000`
 
